@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Remplacer l'adresse ci-dessous par l'adresse définitive du site (voir README).
+Sitemap: https://UTILISATEUR.github.io/NOM-DU-DEPOT/sitemap.xml
